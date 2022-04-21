@@ -30,3 +30,6 @@ git checkout -b <branch_name>  //basically checkout commands switch our prevoius
 
 touch <file_name with extension>
 
+## to check all the branches
+
+git branch -a
