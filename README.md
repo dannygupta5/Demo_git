@@ -33,3 +33,6 @@ touch <file_name with extension>
 ## to check all the branches
 
 git branch -a
+
+## To delete a branch
+git branch -d <branch_name>
